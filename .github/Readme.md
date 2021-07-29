@@ -33,4 +33,4 @@
 
 
 ----
-Credit: [devSouvik](https://github.com/DharanGokul)
+Credit: [DharnGokul](https://github.com/DharanGokul)
